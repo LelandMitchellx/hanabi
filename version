@@ -1,0 +1,10 @@
+{
+  "release": "https://tensou.app/release",
+  "version": "2026.2.1.10020",
+  "releaseNotes": "- New feature\n- 增添若干BUG",
+  "mandatory": true,
+  "android": "https://r2.tensou.app/march-android.apk",
+  "windows": "https://r2.tensou.app/march-windows-setup.exe",
+  "ios": "https://r2.tensou.app/march-ios-unsigned.ipa",
+  "macos": "https://r2.tensou.app/march-macos-unsigned.dmg"
+}
