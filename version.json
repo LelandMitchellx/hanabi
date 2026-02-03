@@ -1,7 +1,7 @@
 {
   "release": "https://tensou.app/release",
   "version": "2026.2.1.10020",
-  "releaseNotes": "- New feature\n- 增添若干BUG",
+  "releaseNotes": "- New feature\n- 增添若干BUG111",
   "mandatory": true,
   "android": "https://r2.tensou.app/march-android.apk",
   "windows": "https://r2.tensou.app/march-windows-setup.exe",
