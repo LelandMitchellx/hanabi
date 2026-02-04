@@ -1,4 +1,15 @@
 {
   "settings.group": "https://t.me/AsukaChats",
-  "settings.banners": ["https://cdn.sa.net/2025/06/14/LRXGdjnmz9k8gZo.png", "https://cdn.sa.net/2025/09/28/FElpAiSCyRKgwMm.gif", "123123"]
+  "settings.banners": [
+    {
+      "name": "banner1",
+      "image": "https://cdn.sa.net/2025/06/14/LRXGdjnmz9k8gZo.png",
+      "link": "https://t.me/AsukaChats"
+    },
+    {
+      "name": "banner2",
+      "image": "https://cdn.sa.net/2025/09/28/FElpAiSCyRKgwMm.gif",
+      "link": "https://t.me/AsukaChats"
+    }
+  ]
 }
