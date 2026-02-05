@@ -1,6 +1,6 @@
 {
   "release": "https://tensou.app/release",
-  "version": "2026.2.2.10022",
+  "version": "2026.2.5.10025",
   "releaseNotes": "- New feature\n- 增添若干BUG",
   "mandatory": true,
   "android": "https://r2.tensou.app/march-android.apk",
